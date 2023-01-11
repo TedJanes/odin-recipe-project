@@ -1,0 +1,13 @@
+#title{color: black;}
+/*id selector if it was an <h2 id="title"*/
+
+p {
+    color:brown;
+    border-color: purple;
+}
+/*class selector*/ 
+
+.title,
+h2 { color: blue;
+
+}
